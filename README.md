@@ -1,20 +1,23 @@
-### Hi there 👋
+**<p align="center"> Hi there 👋 </p>**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="center">My name is Arkadiy - I was born and raised in Almaty, Kazakhstan. 🏞️</p>
 
-Languages and frameworks:
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,js,jquery,tailwind,ts,react)](https://skillicons.dev)
+<p align="center">I am a novice front-end developer and I work on various projects in my spare time.</p>
 
-<p align="center">Tools:</p>
+**<p align="center">Languages and frameworks:</p>**
 
-[![My Tools](https://skillicons.dev/icons?i=codepen,figma,git,netlify,ps,vscode)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,jquery,tailwind,ts,react" />
+  </a>
+</p>
+
+**<p align="center">Tools:</p>**
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=codepen,figma,git,netlify,ps,vscode" />
+  </a>
+</p>
 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woodTHPS&theme=default)
