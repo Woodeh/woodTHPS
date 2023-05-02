@@ -12,7 +12,7 @@
 Languages and frameworks:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,js,jquery,tailwind,ts,react)](https://skillicons.dev)
 
-Tools:
+<p align="center">Tools:</p>
 [![My Tools](https://skillicons.dev/icons?i=codepen,figma,git,netlify,ps,vscode)](https://skillicons.dev)
 
 
