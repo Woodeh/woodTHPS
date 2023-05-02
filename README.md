@@ -9,6 +9,11 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,sass,js,ts,react)](https://skillicons.dev)
+Languages and frameworks:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,sass,js,jquery,tailwind,ts,react)](https://skillicons.dev)
+
+Tools:
+[![My Tools](https://skillicons.dev/icons?i=codepen,figma,git,netlify,ps,vscode)](https://skillicons.dev)
+
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=woodTHPS&theme=default)
